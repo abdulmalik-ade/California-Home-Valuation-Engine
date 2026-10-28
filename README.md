@@ -13,6 +13,9 @@ This project provides an easy-to-use graphical interface where clients and real 
 * **Real-time Map Integration**: Automatically pins and visualizes selected geographical coordinates on an interactive map.
 * **Instant Calculations**: Predicts the property value instantly as sidebar variables are updated.
 
+![Customer Experience Dashboard](.png)
+
+
 ---
 
 ## 🛠️ Model Performance (Backend Documentation)
