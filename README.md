@@ -33,6 +33,8 @@ Ensure you have downloaded the following files into a single directory on your m
 * `app.py` (The Streamlit app file)
 * `california_housing_rf.joblib` (The serialized model file)
 
+> ⚠️ **Note on Large Model Files:** If you are cloning this repository from GitHub and do not see the `.joblib` model file because of GitHub size limits, you can easily train and generate the model locally by running your notebook's training cells to write the file to your computer.
+
 ### 2. Install Required Dependencies
 Open your Terminal or Command Prompt in the project folder and run:
 ```bash
