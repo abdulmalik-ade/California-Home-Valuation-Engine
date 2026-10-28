@@ -7,13 +7,14 @@ An interactive, premium-grade real estate valuation platform built using Streaml
 ## 🚀 Project Overview
 
 This project provides an easy-to-use graphical interface where clients and real estate agents can input property attributes and get an instant, machine-learning-powered pricing prediction. 
+![-California-Home-Valuation-Engine](California%20Home%20page.png)
 
 ### Key Features
 * **Sleek, Minimalist Interface**: Clean design emphasizing results without overwhelming users with complex technical metrics.
 * **Real-time Map Integration**: Automatically pins and visualizes selected geographical coordinates on an interactive map.
 * **Instant Calculations**: Predicts the property value instantly as sidebar variables are updated.
 
-![Customer Experience Dashboard](.png)
+![-California-Home-Valuation-Engine](map.png)
 
 
 ---
